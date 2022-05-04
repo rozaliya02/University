@@ -1,0 +1,7 @@
+D:\Desktop\university\Информатика\Информатика 2\Телефонен Указател\PhoneBook!\PhoneBook!\obj\Debug\PhoneBook!.csproj.AssemblyReference.cache
+D:\Desktop\university\Информатика\Информатика 2\Телефонен Указател\PhoneBook!\PhoneBook!\obj\Debug\PhoneBook!.csproj.CoreCompileInputs.cache
+D:\Desktop\university\Информатика\Информатика 2\Телефонен Указател\PhoneBook!\PhoneBook!\bin\Debug\PhoneBook!.exe.config
+D:\Desktop\university\Информатика\Информатика 2\Телефонен Указател\PhoneBook!\PhoneBook!\bin\Debug\PhoneBook!.exe
+D:\Desktop\university\Информатика\Информатика 2\Телефонен Указател\PhoneBook!\PhoneBook!\bin\Debug\PhoneBook!.pdb
+D:\Desktop\university\Информатика\Информатика 2\Телефонен Указател\PhoneBook!\PhoneBook!\obj\Debug\PhoneBook!.exe
+D:\Desktop\university\Информатика\Информатика 2\Телефонен Указател\PhoneBook!\PhoneBook!\obj\Debug\PhoneBook!.pdb
